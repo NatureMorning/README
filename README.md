@@ -5,4 +5,4 @@ Amoranto, Raesean,
 Soto, Ruff Albert,
 Mendoza, Vincent,
 De Vera, Christine Lyka,
-Garucha, Raven,
+Garucha, Raven
